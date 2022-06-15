@@ -11,6 +11,6 @@ citation: 'Ilan Tzitrin, Aaron Z. Goldberg, and Jesse C. Cresswell, Operational 
 ---
 Generative modelling allows us to learn patterns in data and generate novel examples that are similar to real ones. Normalizing flows are one technique in machine learning for accomplishing this, however, they cannot directly model the space where realistic data lives. We show that composing a normalizing flow with a conformal embedding can model the data space, and demonstrate the effectiveness of this approach on real-world data sets.
 
-[Download paper here](http://jescresswell.github.io/files/NeurIPS-2021-tractable-density-estimation-on-learned-manifolds-with-conformal-embedding-flows-Paper.pdf)
+[Download paper here](http://jescresswell.github.io/files/1906.07731.pdf)
 
 Recommended citation: Ilan Tzitrin, Aaron Z. Goldberg, and Jesse C. Cresswell. Operational symmetries of entangled states. J. Phys. A: Math. Theor. 53 095304
