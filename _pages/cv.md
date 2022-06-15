@@ -9,32 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+Experience
+======
+* 2019 - Present: Sr. Machine Learning Scientist, Layer 6 AI at TD
+** Team Lead for Risk applied work
+** Team Lead for privacy research
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph.D in Theoretical Physics, University of Toronto, 2019
+* M.Sc. in Physics, University of Toronto, 2015
+* H.B.Sc. in Physics, University of British Columbia, 2014
+* Exchange Program - National University of Singapore, 2013
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, Java, Scala
+* Deep Learning Libraries: Pytorch, JAX, Tensorflow
+* Frameworks: Azure, Kubernetes, Databricks, Spark, Hadoop
+* Data Science Libraries: Scikit-learn, Pandas, Numpy, Scipy
+* Scientific Languages: Mathematica, Maple, Matlab
 
 Publications
 ======
@@ -47,13 +41,17 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2017 - Vanier Canada Graduate Scholarship - U.Toronto
+* 2017 - NSERC CGS-Doctoral - U.Toronto
+* 2017, 2019 - Van Kranendonk Teaching Assistant Award - U.Toronto
+* 2016 - Ontario Graduate Scholarship - U.Toronto
+* 2015 - NSERC CGS-Masters - U.Toronto
+* 2014 - Distinguished Graduate in Physics - UBC
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2018-2019 - Academic Don, University of Trinity College, U.Toronto
+* 2016-2019 - Graduate Education Council, School of Graduate Studies, U.Toronto
