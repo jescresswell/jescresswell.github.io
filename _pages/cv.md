@@ -12,8 +12,8 @@ redirect_from:
 Experience
 ======
 * 2019 - Present: Sr. Machine Learning Scientist, Layer 6 AI at TD
-** Team Lead for Risk applied work
-** Team Lead for privacy research
+  * Team Lead for Risk applied work
+  * Team Lead for privacy research
 
 Education
 ======
