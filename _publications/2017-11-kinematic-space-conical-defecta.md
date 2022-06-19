@@ -10,4 +10,4 @@ citation: 'Jesse C. Cresswell, Amanda W. Peet. Kinematic space for conical defec
 ---
 Kinematic space can be used as an intermediate step in the AdS/CFT dictionary and lends itself naturally to the description of diffeomorphism invariant quantities. In this work conical defect spacetimes are considered and a duality is established between partial OPE blocks and bulk fields integrated over individual geodesics, minimal or non-minimal.
 
-[Download paper here](http://jescresswell.github.io/files/JHEP-kinematic-space-conical-defectspdf)
+[Download paper here](http://jescresswell.github.io/files/JHEP-kinematic-space-conical-defects.pdf)
