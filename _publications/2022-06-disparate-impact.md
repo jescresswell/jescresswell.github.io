@@ -10,4 +10,4 @@ citation: 'Maria S. Esipova, Atiyeh Ashari Ghomi, Yaqiao Luo, and Jesse C. Cress
 ---
 One of the most widely used techniques for private model training, differentially private stochastic gradient descent (DPSGD), frequently intensifies disparate impact on groups within data. In this work we study the fine-grained causes of unfairness in DPSGD and identify gradient misalignment due to inequitable gradient clipping as the most significant source.
 
-[Download paper here](http://jescresswell.github.io/files/2206.07737.pdf)
+[Download paper here](https://arxiv.org/pdf/2206.07737.pdf)

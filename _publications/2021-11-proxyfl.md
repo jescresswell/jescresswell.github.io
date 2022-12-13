@@ -10,4 +10,4 @@ citation: 'Shivam Kalra, Junfeng Wen, Jesse C. Cresswell, Maksims Volkovs, and H
 ---
 We propose a communication-efficient scheme for decentralized federated learning called ProxyFL, or proxy-based federated learning. Each participant in ProxyFL maintains two models, a private model, and a publicly shared proxy model designed to protect the participant’s privacy.
 
-[Download paper here](http://jescresswell.github.io/files/2111.11343.pdf)
+[Download paper here](https://arxiv.org/pdf/2111.11343.pdf)

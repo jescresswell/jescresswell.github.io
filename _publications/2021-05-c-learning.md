@@ -10,4 +10,4 @@ citation: 'Panteha Naderian, Gabriel Loaiza-Ganem, Harry J. Braviner, Anthony L.
 ---
 We introduce cumulative accessibility functions, which measure the reachability of a goal from a given state within a specified horizon. We show that optimal cumulative accessibility functions are monotonic and can trade off speed and reliability in goal-reaching by suggesting multiple paths to a single goal depending on the provided horizon. We show that our method outperforms state-of-the-art goal-reaching algorithms in success rate, sample complexity, and path optimality. 
 
-[Download paper here](http://jescresswell.github.io/files/ICLR-c-learning.pdf)
+[Download paper here](https://openreview.net/pdf?id=W3Wf_wKmqm9)

@@ -10,4 +10,4 @@ citation: 'Brendan Leigh Ross and Jesse C. Cresswell. Tractable Density Estimati
 ---
 Generative modelling allows us to learn patterns in data and generate novel examples that are similar to real ones. Normalizing flows are one technique in machine learning for accomplishing this, however, they cannot directly model the space where realistic data lives. We show that composing a normalizing flow with a conformal embedding can model the data space, and demonstrate the effectiveness of this approach on real-world data sets.
 
-[Download paper here](http://jescresswell.github.io/files/NeurIPS-conformal-embedding-flows.pdf)
+[Download paper here](https://proceedings.neurips.cc/paper/2021/file/dfd786998e082758be12670d856df755-Paper.pdf)

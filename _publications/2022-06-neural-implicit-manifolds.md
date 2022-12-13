@@ -10,4 +10,4 @@ citation: 'Brendan Leigh Ross, Gabriel Loaiza-Ganem, Anthony L. Caterini, and Je
 ---
 Natural data is often constrained to a low dimensional manifold. We propose to model the data manifold implicitly as the set of zeros of a neural network. To learn the data distribution on the manifold, we introduce the constrained energy-based model, which uses a constrained variant of Langevin dynamics to train and sample within the learned manifold. The resulting model can be manipulated with an arithmetic of manifolds which allows practitioners to take unions and intersections of model manifolds.
 
-[Download paper here](http://jescresswell.github.io/files/2206.11267.pdf)
+[Download paper here](https://arxiv.org/pdf/2206.11267.pdf)
