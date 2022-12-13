@@ -10,4 +10,4 @@ citation: 'Ilan Tzitrin, Aaron Z. Goldberg, and Jesse C. Cresswell, Operational 
 ---
 There exist quantum entangled states for which all local actions on one subsystem can be equivalently realized by actions on another, thereby possessing operational symmetry. We characterize the states for which this fundamental property of entanglement does and does not hold, including multipartite and mixed states, and draw connections to quantum steering, envariance, the Reeh–Schlieder theorem, and classical entanglement.
 
-[Download paper here](http://jescresswell.github.io/files/JPhysA-operational-symmetries.pdf)
+[Download paper here](https://arxiv.org/pdf/1906.07731.pdf)
