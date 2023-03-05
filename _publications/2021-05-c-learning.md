@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-05-c-learning
 excerpt: 
 date: 2021-05-01
-venue: 'International Conference on Learning Representations'
+venue: 'International Conference on Learning Representations 2021'
 paperurl: 'https://openreview.net/forum?id=W3Wf_wKmqm9'
 citation: 'Panteha Naderian, Gabriel Loaiza-Ganem, Harry J. Braviner, Anthony L. Caterini, Jesse C. Cresswell, Tong Li, Animesh Garg. C-Learning: Horizon-Aware Cumulative Accessibility Estimation. International Conference on Learning Representations, 2021'
 ---

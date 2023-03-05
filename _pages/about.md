@@ -15,6 +15,7 @@ Privacy enhancing technologies are crucial for developing and deploying machine 
 My current interest in generative modeling is how to properly account for the implications of the manifold hypothesis - that high-dimensional natural data belong to low-dimensional manifolds. To accurately represent natural data, generative models should learn both manifold structure and the distribution of data on the manifold. My work with our group at Layer 6 AI is aimed at developing rigorous techniques that solve foundational problems in generative modeling.
 
 ### News:
+- Jan. 2023 - We had two papers accepted at ICLR 2023 including one [Spotlight (notable top 25%)](https://openreview.net/forum?id=qLOaeRvteqbx) and a [Poster](https://openreview.net/forum?id=Rvee9CAX4fi)
 - Oct. 2022 - Five papers submitted to various NeurIPS workshops were all accepted this year, one with an oral and another spotlight. [AFCP](https://www.afciworkshop.org/afcp2022), [ICBINB](https://sites.google.com/view/icbinb-2022/), [FL](https://federated-learning.org/fl-neurips-2022/), [ML4PS](https://ml4physicalsciences.github.io/2022/), [NeurReps](https://www.neurreps.org/)
 - Sept. 2022 - I'll be serving as a Program Chair for the [federated learning workshop](https://federated-learning.org/fl-neurips-2022/) at this year's NeurIPS
 - June 2022 - Two papers accepted to the ICML workshops [TAG-ML](https://www.tagds.com/events/conferences/tag-in-machine-learning) and [TPDP](https://tpdp.journalprivacyconfidentiality.org/2022/), headed to an in-person conference for the first time in years
