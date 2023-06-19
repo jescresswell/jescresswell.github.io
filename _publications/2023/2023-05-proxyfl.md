@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2023-05-proxyfl
 excerpt: 
 date: 2023-05-22
-authors: 'Shivam Kalra, Junfeng Wen, <b>Jesse C. Cresswell</b>, Maksims Volkovs, Hamid R. Tizhoosh'
-note:
+authors: '*Shivam Kalra, *Junfeng Wen, <b>*Jesse C. Cresswell</b>, Maksims Volkovs, Hamid R. Tizhoosh'
+note: '* denotes equal contribution.'
 venueshort:
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-023-38569-4'
