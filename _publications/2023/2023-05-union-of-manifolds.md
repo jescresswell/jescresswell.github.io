@@ -6,7 +6,7 @@ excerpt:
 date: 2023-05-01
 authors: 'Bradley C.A. Brown, Anthony L. Caterini, Brendan Leigh Ross, <b>Jesse C. Cresswell</b>, Gabriel Loaiza-Ganem'
 note:
-venueshort: 'ICML 2023'
+venueshort: 'ICLR 2023'
 venue: 'International Conference on Learning Representations 2023'
 paperurl: 'https://openreview.net/forum?id=Rvee9CAX4fi'
 pdf: 'https://openreview.net/pdf?id=Rvee9CAX4fi'
