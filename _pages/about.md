@@ -15,7 +15,10 @@ Privacy enhancing technologies are crucial for developing and deploying machine 
 My current interest in generative modeling is how to properly account for the implications of the manifold hypothesis - that high-dimensional natural data belong to low-dimensional manifolds. To accurately represent natural data, generative models should learn both manifold structure and the distribution of data on the manifold. My work with our group at Layer 6 AI is aimed at developing rigorous techniques that solve foundational problems in generative modeling.
 
 ### News:
-- Sept. 2023 - One [poster](https://arxiv.org/abs/2306.04675) accepted at NeurIPS, a massive project with 10 authors from Layer 6 AI
+- Jan. 2024 - Another [Poster](https://openreview.net/forum?id=EpYnZpDpsQ) accepted to ICLR 2024, which also had an [Oral](https://table-representation-learning.github.io/#accepted-papers) at the NeurIPS Table Representation Workshop
+- Dec. 2023 - I'm happy to say that our [paper](https://openreview.net/forum?id=lTOku838Zv) on topology-aware learning is published in TMLR
+- Dec. 2023 - I was named a [Top Reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee) at NeurIPS 2023. I'll also be reviewing for ICML 2024.
+- Sept. 2023 - One [Poster](https://openreview.net/forum?id=08zf7kTOoh) accepted at NeurIPS, a massive project with 10 authors from Layer 6 AI
 - May 2023 - Nature Communications has published my [paper](https://www.nature.com/articles/s41467-023-38569-4) on decentralized federated learning with differential privacy guarantees
 - Jan. 2023 - We had two papers accepted at ICLR 2023 including one [Spotlight (notable top 25%)](https://openreview.net/forum?id=qLOaeRvteqbx) and a [Poster](https://openreview.net/forum?id=Rvee9CAX4fi)
 - Oct. 2022 - Five papers submitted to various NeurIPS workshops were all accepted this year, one with an oral and another spotlight. [AFCP](https://www.afciworkshop.org/afcp2022), [ICBINB](https://sites.google.com/view/icbinb-2022/), [FL](https://federated-learning.org/fl-neurips-2022/), [ML4PS](https://ml4physicalsciences.github.io/2022/), [NeurReps](https://www.neurreps.org/)

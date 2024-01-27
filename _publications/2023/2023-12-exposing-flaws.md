@@ -6,7 +6,7 @@ excerpt:
 date: 2023-12-10
 authors: 'George Stein, <b>Jesse C. Cresswell</b>, Rasa Hosseinzadeh, Yi Sui, Brendan Leigh Ross, Valentin Villecroze, Anthony L. Caterini, J. Eric T. Taylor, Gabriel Loaiza-Ganem'
 note:
-venueshort: 'NeruIPS 2023'
+venueshort: 'NeurIPS 2023'
 venue: 'Advances in Neural Information Processing Systems'
 paperurl: 'https://arxiv.org/abs/2306.04675'
 pdf: 'https://arxiv.org/pdf/2306.04675.pdf'
