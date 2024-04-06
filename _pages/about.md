@@ -16,7 +16,7 @@ My current interest in generative modeling is how to properly account for the im
 
 ### News:
 - Apr. 2024 - I'll be serving as an Area Chair for NeurIPS 2024
-- Mar. 2024 - We had a paper selected for a [Hightlight](https://arxiv.org/abs/2312.10144) at CVPR 2024, and two posters accepted to the ICLR workshops [BGTP](https://sites.google.com/view/bgpt-iclr24) and [GenAI4DM](https://sites.google.com/view/genai4dm-iclr2024)
+- Mar. 2024 - We had a paper selected for a [Hightlight](https://arxiv.org/abs/2312.10144) at CVPR 2024, and two posters accepted to the ICLR workshops [BGPT](https://sites.google.com/view/bgpt-iclr24) and [GenAI4DM](https://sites.google.com/view/genai4dm-iclr2024)
 - Feb. 2024 - At TD Bank's annual patent awards I was nominated for both Inventor of the Year, and Invention of the year, while crossing the half-century mark for patents filed
 - Jan. 2024 - Another [Poster](https://openreview.net/forum?id=EpYnZpDpsQ) accepted to ICLR 2024, which also had an [Oral](https://table-representation-learning.github.io/#accepted-papers) at the NeurIPS Table Representation Workshop
 - Dec. 2023 - I'm happy to say that our [paper](https://openreview.net/forum?id=lTOku838Zv) on topology-aware learning is published in TMLR
