@@ -8,8 +8,8 @@ authors: 'George Stein, <b>Jesse C. Cresswell</b>, Rasa Hosseinzadeh, Yi Sui, Br
 note:
 venueshort: 'NeurIPS 2023'
 venue: 'Advances in Neural Information Processing Systems'
-paperurl: 'https://arxiv.org/abs/2306.04675'
-pdf: 'https://arxiv.org/pdf/2306.04675.pdf'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/0bc795afae289ed465a65a3b4b1f4eb7-Abstract-Conference.html'
+pdf: 'https://proceedings.neurips.cc/paper_files/paper/2023/file/0bc795afae289ed465a65a3b4b1f4eb7-Paper-Conference.pdf'
 codeurl: 'https://github.com/layer6ai-labs/dgm-eval'
 videourl:
 slidesurl:

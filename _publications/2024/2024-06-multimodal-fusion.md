@@ -1,16 +1,16 @@
 ---
 title: "Data-Efficient Multimodal Fusion on a Single GPU"
 collection: publications
-permalink: /publication/2023-12-multimodal-fusion
+permalink: /publication/2024-06-multimodal-fusion
 excerpt: 
-date: 2023-12-15
+date: 2024-06-17
 authors: 'Noël Vouitsis, Zhaoyan Liu, Satya Krishna Gorti, Valentin Villecroze, <b>Jesse C. Cresswell</b>, Guangwei Yu, Gabriel Loaiza-Ganem, Maksims Volkovs'
-note:
-venueshort:
-venue: 'ArXiv Preprint'
+note: 'Highlight, Top 3% of submitted papers'
+venueshort: 'CVPR 2024'
+venue: 'Computer Vision and Pattern Recognition Conference 2024'
 paperurl: 'https://arxiv.org/abs/2312.10144'
 pdf: 'https://arxiv.org/pdf/2312.10144.pdf'
-codeurl:
+codeurl: 'https://github.com/layer6ai-labs/fusemix'
 videourl:
 slidesurl:
 citation: 'Noël Vouitsis, Zhaoyan Liu, Satya Krishna Gorti, Valentin Villecroze, Jesse C. Cresswell, Guangwei Yu, Gabriel Loaiza-Ganem, and Maksims Volkovs. Data-Efficient Multimodal Fusion on a Single GPU. ArXiv Preprint 2312.10144, 2023'
