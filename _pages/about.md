@@ -15,9 +15,10 @@ Designing trustworthy machine learning models is crucial in highly regulated ind
 My current interest in generative modeling is how to properly account for the implications of the manifold hypothesis - that high-dimensional natural data belong to low-dimensional manifolds. To accurately represent natural data, generative models should learn both manifold structure and the distribution of data on the manifold. My work with our group at Layer 6 AI is aimed at developing rigorous techniques that solve foundational problems in generative modeling.
 
 ### News:
+- June 2024 - I had seven workshop papers accepted at ICML with a couple of them as Oral (\*) presentations. [SPIGM\*](https://spigmworkshop2024.github.io/), [DAE\*](https://differentiable.xyz/), [GRaM x2](https://gram-workshop.github.io/schedule.html), [HADMS](https://humans-algs-society.github.io/), [NGAIS](https://icml-nextgenaisafety.github.io/)
 - May 2024 - Two papers accepted to ICML 2024, one on [conformal prediction](https://arxiv.org/abs/2401.13744) and another that solves the longstanding [paradox](https://arxiv.org/abs/2403.18910) around OOD detection with deep generative models.
 - Apr. 2024 - I'll be serving as an Area Chair for NeurIPS 2024
-- Mar. 2024 - We had a paper selected for a [Hightlight](https://arxiv.org/abs/2312.10144) at CVPR 2024, and two posters accepted to the ICLR workshops [BGPT](https://sites.google.com/view/bgpt-iclr24) and [GenAI4DM](https://sites.google.com/view/genai4dm-iclr2024)
+- Mar. 2024 - We had a paper selected for a [Highlight](https://arxiv.org/abs/2312.10144) at CVPR 2024, and two posters accepted to the ICLR workshops [BGPT](https://sites.google.com/view/bgpt-iclr24) and [GenAI4DM](https://sites.google.com/view/genai4dm-iclr2024)
 - Feb. 2024 - At TD Bank's annual patent awards I was nominated for both Inventor of the Year, and Invention of the year, while crossing the half-century mark for patents filed
 - Jan. 2024 - Another [Poster](https://openreview.net/forum?id=EpYnZpDpsQ) accepted to ICLR 2024, which also had an [Oral](https://table-representation-learning.github.io/#accepted-papers) at the NeurIPS Table Representation Workshop
 - Dec. 2023 - I'm happy to say that our [paper](https://openreview.net/forum?id=lTOku838Zv) on topology-aware learning is published in TMLR
