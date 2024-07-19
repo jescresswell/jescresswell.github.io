@@ -1,16 +1,16 @@
 ---
-title: "Robust Self-Supervised Learning Across Diverse Downstream Tasks"
+title: "Benchmarking Robust Self-Supervised Learning Across Diverse Downstream Tasks"
 collection: publications
-permalink: /publication/2024-07-robust-ssl
+permalink: /publication/2024-07-ssl-robustness
 excerpt: 
 date: 2024-07-26
 authors: 'Antoni Kowalczuk, Jan Dubiński, Atiyeh Ashari Ghomi, Yi Sui, George Stein, Jiapeng Wu, <b>Jesse C. Cresswell</b>, Franziska Boenisch, Adam Dziedzic'
 note:
 venueshort: 'ICML 2024 Workshop FMWild'
 venue: 'ICML 2024 Workshop on Foundation Models in the Wild'
-paperurl: 'https://openreview.net/forum?id=U2nyqFbnRF'
-pdf: 'https://openreview.net/pdf?id=U2nyqFbnRF'
-codeurl: 'https://github.com/layer6ai-labs/robust-ssl'
+paperurl: 'https://arxiv.org/abs/2407.12588'
+pdf: 'https://arxiv.org/pdf/2407.12588.pdf'
+codeurl: 'https://github.com/layer6ai-labs/ssl-robustness'
 videourl:
 slidesurl:
 citation: 'Antoni Kowalczuk, Jan Dubiński, Atiyeh Ashari Ghomi, Yi Sui, George Stein, Jiapeng Wu, Jesse C. Cresswell, Franziska Boenisch, Adam Dziedzic. Robust Self-Supervised Learning Across Diverse Downstream Tasks. ICML 2024 Workshop on Foundation Models in the Wild'
