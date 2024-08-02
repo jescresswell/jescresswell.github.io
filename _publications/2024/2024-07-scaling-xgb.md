@@ -9,7 +9,7 @@ note:
 venueshort: 'ICML 2024 Workshop AI4Science'
 venue: 'ICML 2024 Workshop on AI for Science'
 paperurl: 'https://openreview.net/forum?id=Jnu4adAVeA'
-pdf: ''
+pdf: 'https://openreview.net/pdf?id=Jnu4adAVeA'
 codeurl: 'https://github.com/layer6ai-labs/calo-forest'
 videourl:
 slidesurl:
