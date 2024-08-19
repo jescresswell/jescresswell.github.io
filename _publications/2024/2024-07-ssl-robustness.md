@@ -8,7 +8,7 @@ authors: 'Antoni Kowalczuk, Jan Dubiński, Atiyeh Ashari Ghomi, Yi Sui, George S
 note:
 venueshort: 'ICML 2024 Workshop FMWild'
 venue: 'ICML 2024 Workshop on Foundation Models in the Wild'
-paperurl: 'https://arxiv.org/abs/2407.12588'
+paperurl: 'https://openreview.net/forum?id=U2nyqFbnRF'
 pdf: 'https://arxiv.org/pdf/2407.12588.pdf'
 codeurl: 'https://github.com/layer6ai-labs/ssl-robustness'
 videourl:

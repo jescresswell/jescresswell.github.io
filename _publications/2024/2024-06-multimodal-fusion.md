@@ -8,7 +8,7 @@ authors: 'Noël Vouitsis, Zhaoyan Liu, Satya Krishna Gorti, Valentin Villecroze,
 note: 'Highlight, Top 3% of submitted papers'
 venueshort: 'CVPR 2024'
 venue: 'Computer Vision and Pattern Recognition Conference 2024'
-paperurl: 'https://arxiv.org/abs/2312.10144'
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/html/Vouitsis_Data-Efficient_Multimodal_Fusion_on_a_Single_GPU_CVPR_2024_paper.html'
 pdf: 'https://arxiv.org/pdf/2312.10144.pdf'
 codeurl: 'https://github.com/layer6ai-labs/fusemix'
 videourl:

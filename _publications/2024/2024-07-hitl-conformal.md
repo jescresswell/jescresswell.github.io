@@ -8,7 +8,7 @@ authors: '<b>Jesse C. Cresswell</b>, Yi Sui, Bhargava Kumar, Noël Vouitsis'
 note:
 venueshort: 'ICML 2024'
 venue: 'International Conference on Machine Learning 2024'
-paperurl: 'https://arxiv.org/abs/2401.13744'
+paperurl: 'https://openreview.net/forum?id=4CO45y7Mlv'
 pdf: 'https://arxiv.org/pdf/2401.13744.pdf'
 codeurl: 'https://github.com/layer6ai-labs/hitl-conformal-prediction'
 videourl:
