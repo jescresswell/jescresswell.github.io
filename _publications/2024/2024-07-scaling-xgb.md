@@ -8,8 +8,8 @@ authors: '<b>Jesse C. Cresswell</b>, Taewoo Kim'
 note:
 venueshort: 'ICML 2024 Workshop AI4Science'
 venue: 'ICML 2024 Workshop on AI for Science'
-paperurl: 'https://openreview.net/forum?id=Jnu4adAVeA'
-pdf: 'https://openreview.net/pdf?id=Jnu4adAVeA'
+paperurl: 'https://arxiv.org/abs/2408.16046'
+pdf: 'https://arxiv.org/pdf/2408.16046.pdf'
 codeurl: 'https://github.com/layer6ai-labs/calo-forest'
 videourl:
 slidesurl:
