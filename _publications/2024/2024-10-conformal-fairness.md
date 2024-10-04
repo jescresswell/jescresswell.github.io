@@ -3,7 +3,7 @@ title: "Conformal Prediction Sets Can Cause Disparate Impact"
 collection: publications
 permalink: /publication/2024-10-conformal-fairness
 excerpt: 
-date: 2024-07-21
+date: 2024-10-02
 authors: '<b>Jesse C. Cresswell</b>, Bhargava Kumar, Yi Sui, Mouloud Belbahri'
 note:
 venueshort: 'arXiv'
