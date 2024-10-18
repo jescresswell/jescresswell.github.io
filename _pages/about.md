@@ -15,6 +15,7 @@ Designing trustworthy machine learning models is crucial in highly regulated ind
 My current interest in generative modeling is how to properly account for the implications of the manifold hypothesis - that high-dimensional natural data belong to low-dimensional manifolds. To accurately represent natural data, generative models should learn both manifold structure and the distribution of data on the manifold. My work with our group at Layer 6 AI is aimed at developing rigorous techniques that solve foundational problems in generative modeling.
 
 ### News:
+- Oct. 2024 - With NeurIPS workshop decisions out, I had four papers accepted to the [TRL](https://table-representation-learning.github.io/), [FITML](https://sites.google.com/view/neurips2024-ftw/home), [ATTRIB](https://attrib-workshop.cc/), and [SSL](https://sslneurips2024.github.io/index.html) workshops.
 - Sept. 2024 - We had our paper on estimating local intrinsic dimension selected for a [Spotlight](https://arxiv.org/abs/2406.03537) at NeurIPS 2024
 - Aug. 2024 - I'll be an Area Chair for next year's ICLR 2025 in Singapore
 - July 2024 - This month two papers were accepted to TMLR, first my [collaborative work](https://openreview.net/forum?id=YN0IcnXqsr) with Vector Institute researchers, and second a [comprehensive survey](https://openreview.net/forum?id=a90WpmSi0I) of deep generative modelling through the lens of the manifold hypothesis.
