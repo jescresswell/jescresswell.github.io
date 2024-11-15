@@ -9,7 +9,7 @@ note:
 venueshort: 'NeurIPS 2024 Workshop FITML'
 venue: 'NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning'
 paperurl: 'https://openreview.net/forum?id=2p4ES8QPUi'
-pdf: 'https://openreview.net/pdf?id=2p4ES8QPUi'
+pdf: 'https://arxiv.org/pdf/2411.08954'
 codeurl:
 videourl:
 slidesurl:
