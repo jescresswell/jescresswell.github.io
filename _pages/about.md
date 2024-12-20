@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Sr. Machine Learning Scientist with Layer 6 AI at TD. On the applied side, I lead the development of credit risk ML models for TD, while in research I focus on Trustworthy AI and generative modelling.
+I am a Staff Research Machine Learning Scientist with Layer 6 AI at TD, and lead the development of Trustworthy AI.
 
 Designing trustworthy machine learning models is crucial in highly regulated industries like banking and healthcare. My research group at Layer 6 AI is advancing TD's capabilities in privacy, fairness, robustness, and explainability, both for predictive and generative AI.
 
-My current interest in generative modeling is how to properly account for the implications of the manifold hypothesis - that high-dimensional natural data belong to low-dimensional manifolds. To accurately represent natural data, generative models should learn both manifold structure and the distribution of data on the manifold. My work with our group at Layer 6 AI is aimed at developing rigorous techniques that solve foundational problems in generative modeling.
+I have deep expertise in generative modelling - especially through the lens of the manifold hypothesis - conformal prediction, self-supervised learning, differential privacy, and federated learning.
 
 ### News:
 - Dec. 2024 - I'll be serving as an Area Chair for ICML 2024
