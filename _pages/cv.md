@@ -11,9 +11,9 @@ redirect_from:
 
 Experience
 ======
-* 2019 - Present: Sr. Machine Learning Scientist, Layer 6 AI at TD
-  * Team Lead for Risk applied work
-  * Team Lead for privacy research
+* 2019 - Present: Staff Machine Learning Scientist, Layer 6 AI at TD
+  * Lead Scientist for Trustworthy AI
+  * Manager of team of machine learning scientists
 
 Education
 ======
@@ -25,7 +25,7 @@ Education
 Skills
 ======
 * Languages: Python, Java, Scala
-* Deep Learning Libraries: Pytorch, JAX, Tensorflow
+* Deep Learning Libraries: Pytorch, Huggingface - Diffusers, Transformers, Datasets
 * Frameworks: Azure, Kubernetes, Databricks, Spark, Hadoop
 * Data Science Libraries: Scikit-learn, Pandas, Numpy, Scipy
 * Scientific Languages: Mathematica, Maple, Matlab
@@ -42,7 +42,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Awards
+Academic Awards
 ======
 * 2017 - Vanier Canada Graduate Scholarship - U.Toronto
 * 2017 - NSERC CGS-Doctoral - U.Toronto
@@ -51,7 +51,9 @@ Awards
 * 2015 - NSERC CGS-Masters - U.Toronto
 * 2014 - Distinguished Graduate in Physics - UBC
   
-Service and leadership
+Academic Service and leadership
 ======
+* 2024-2025 - Area Chair at NeurIPS, ICML, and ICLR
+* 2022-2024 - Reviewer at NeurIPS and ICML
 * 2018-2019 - Academic Don, University of Trinity College, U.Toronto
 * 2016-2019 - Graduate Education Council, School of Graduate Studies, U.Toronto
