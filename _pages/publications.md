@@ -10,6 +10,13 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+## 2025
+{% for post in site.publications reversed %}
+ {% if post.path contains '2025' %}
+  {% include archive-single-pub.html %}
+ {% endif %}
+{% endfor %}
+
 ## 2024
 {% for post in site.publications reversed %}
  {% if post.path contains '2024' %}
