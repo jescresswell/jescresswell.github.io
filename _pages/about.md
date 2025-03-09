@@ -16,7 +16,7 @@ I have deep expertise in generative modelling - especially through the lens of t
 
 ### News:
 - Mar. 2025 - I'll be serving as an Area Chair for NeurIPS 2025
-- Jan. 2025 - I had two Spotlight papers accepted to ICLR on [fairness](https://arxiv.org/abs/2410.01888) and [memorization](https://arxiv.org/abs/2411.00113), and another accepted to [NAACL](https://arxiv.org/abs/2410.12916)!
+- Jan. 2025 - I had two Spotlight papers accepted to ICLR on [fairness](https://arxiv.org/abs/2410.01888) and [memorization](https://arxiv.org/abs/2411.00113), and an Oral paper at [NAACL](https://arxiv.org/abs/2410.12916)!
 - Dec. 2024 - I'll be serving as an Area Chair for ICML 2025
 - Oct. 2024 - With NeurIPS workshop decisions out, I had four papers accepted to the [TRL](https://table-representation-learning.github.io/), [FITML](https://sites.google.com/view/neurips2024-ftw/home), [ATTRIB](https://attrib-workshop.cc/), and [SSL](https://sslneurips2024.github.io/index.html) workshops.
 - Sept. 2024 - We had our paper on estimating local intrinsic dimension selected for a [Spotlight](https://arxiv.org/abs/2406.03537) at NeurIPS 2024
