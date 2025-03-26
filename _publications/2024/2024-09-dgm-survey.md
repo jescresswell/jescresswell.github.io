@@ -1,9 +1,9 @@
 ---
 title: "Deep Generative Models through the Lens of the Manifold Hypothesis: A Survey and New Connections"
 collection: publications
-permalink: /publication/2024-04-dgm-survey
+permalink: /publication/2024-09-dgm-survey
 excerpt: 
-date: 2024-07-26
+date: 2024-09-24
 authors: 'Gabriel Loaiza-Ganem, Brendan Leigh Ross, Rasa Hosseinzadeh, Anthony L. Caterini, <b>Jesse C. Cresswell</b>,'
 note:
 venueshort: 'TMLR'
