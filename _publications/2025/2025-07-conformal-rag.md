@@ -9,7 +9,7 @@ note: 'Short Paper'
 venueshort: 'SIGIR 2025'
 venue: 'SIGIR Conference on Research and Development in Information Retrieval 2025'
 paperurl:
-pdf:
+pdf: 'http://jescresswell.github.io/files/Answer_Quality_Assessment_for_Retrieval_Augmented_Generation_via_Kernalized_Conformal_Factuality.pdf'
 codeurl:
 videourl:
 slidesurl:
