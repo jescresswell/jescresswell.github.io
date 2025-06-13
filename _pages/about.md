@@ -15,7 +15,8 @@ Designing trustworthy machine learning models is crucial in highly regulated ind
 I have deep expertise in generative modelling - especially through the lens of the manifold hypothesis - conformal prediction, self-supervised learning, differential privacy, and federated learning.
 
 ### News:
-- Apr. 2025 - I had a [short paper](https://jescresswell.github.io/files/Answer_Quality_Assessment_for_Retrieval_Augmented_Generation_via_Kernalized_Conformal_Factuality.pdf) accepted to  SIGIR 2025, and am reviewing for ICCV 2025
+- Jun. 2025 - Our [paper](https://arxiv.org/abs/2506.07918) on causal foundation models was accepted as an Oral to the ICML 2025 [SIM Workshop](https://sites.google.com/view/sim-icml2025).
+- Apr. 2025 - I had a [short paper](https://jescresswell.github.io/files/Answer_Quality_Assessment_for_Retrieval_Augmented_Generation_via_Kernalized_Conformal_Factuality.pdf) accepted to SIGIR 2025, and am reviewing for ICCV 2025
 - Mar. 2025 - I'll be serving as an Area Chair for NeurIPS 2025
 - Jan. 2025 - I had two Spotlight papers accepted to ICLR on [fairness](https://arxiv.org/abs/2410.01888) and [memorization](https://arxiv.org/abs/2411.00113), and an Oral paper at [NAACL](https://arxiv.org/abs/2410.12916)!
 - Dec. 2024 - I'll be serving as an Area Chair for ICML 2025
