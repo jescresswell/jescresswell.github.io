@@ -8,9 +8,9 @@ authors: 'Naihe Feng, Yi Sui, Shiyi Hou, <b>Jesse C. Cresswell</b>, Ga Wu'
 note: 'Short Paper'
 venueshort: 'SIGIR 2025'
 venue: 'SIGIR Conference on Research and Development in Information Retrieval 2025'
-paperurl:
-pdf: 'http://jescresswell.github.io/files/Answer_Quality_Assessment_for_Retrieval_Augmented_Generation_via_Kernalized_Conformal_Factuality.pdf'
-codeurl:
+paperurl: 'https://arxiv.org/abs/2506.20978'
+pdf: 'https://arxiv.org/pdf/2506.20978'
+codeurl: 'https://github.com/n4feng/ResponseQualityAssessment'
 videourl:
 slidesurl:
 citation: 'Naihe Feng, Yi Sui, Shiyi Hou, Jesse C. Cresswell, Ga Wu. Response Quality Assessment for Retrieval-Augmented Generation via Conditional Conformal Factuality. SIGIR 2025'
