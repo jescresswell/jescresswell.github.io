@@ -15,9 +15,12 @@ Designing trustworthy machine learning models is crucial in highly regulated ind
 I have deep expertise in generative modelling - especially through the lens of the manifold hypothesis - conformal prediction, self-supervised learning, differential privacy, and federated learning.
 
 ### News:
+- Sept. 2025 - I had three papers accepted to NeurIPS 2025, including a Spotlight!
+- Aug. 2025 - I'll be serving as an Area Chair for ICLR 2025
 - Jun. 2025 - Our [paper](https://arxiv.org/abs/2506.07918) on causal foundation models was accepted as an Oral to the ICML 2025 [SIM Workshop](https://sites.google.com/view/sim-icml2025).
 - Apr. 2025 - I had a [short paper](https://jescresswell.github.io/files/Answer_Quality_Assessment_for_Retrieval_Augmented_Generation_via_Kernalized_Conformal_Factuality.pdf) accepted to SIGIR 2025, and am reviewing for ICCV 2025
 - Mar. 2025 - I'll be serving as an Area Chair for NeurIPS 2025
+- Feb. 2025 - I was named TD's Inventor of the Year!
 - Jan. 2025 - I had two Spotlight papers accepted to ICLR on [fairness](https://arxiv.org/abs/2410.01888) and [memorization](https://arxiv.org/abs/2411.00113), and an Oral paper at [NAACL](https://arxiv.org/abs/2410.12916)!
 - Dec. 2024 - I'll be serving as an Area Chair for ICML 2025
 - Oct. 2024 - With NeurIPS workshop decisions out, I had four papers accepted to the [TRL](https://table-representation-learning.github.io/), [FITML](https://sites.google.com/view/neurips2024-ftw/home), [ATTRIB](https://attrib-workshop.cc/), and [SSL](https://sslneurips2024.github.io/index.html) workshops.
