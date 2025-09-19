@@ -5,7 +5,7 @@ permalink: /publication/2025-04-conformal-fairness
 excerpt: 
 date: 2025-04-24
 authors: '<b>Jesse C. Cresswell</b>, Bhargava Kumar, Yi Sui, Mouloud Belbahri'
-note: 'Spotlight, Top 25% of accepted papers'
+note: 'Spotlight. Top 25% of accepted papers'
 venueshort: 'ICLR 2025'
 venue: 'International Conference on Learning Representations 2025'
 paperurl: 'https://openreview.net/forum?id=fZK6AQXlUU'

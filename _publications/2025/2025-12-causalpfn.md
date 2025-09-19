@@ -5,7 +5,7 @@ permalink: /publication/2025-12-causalpfn
 excerpt: 
 date: 2025-12-02
 authors: 'Vahid Balazadeh, Hamidreza Kamkari, Valentin Thomas, Benson Li, Junwei Ma, <b>Jesse C. Cresswell</b>, Rahul G. Krishnan'
-note: 'Spotlight'
+note: 'Spotlight. Top 15% of accepted papers'
 venueshort: 'NeurIPS 2025'
 venue: 'Advances in Neural Information Processing Systems'
 paperurl: 'https://arxiv.org/abs/2506.07918'

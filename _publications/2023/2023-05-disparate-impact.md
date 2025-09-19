@@ -5,7 +5,7 @@ permalink: /publication/2023-05-disparate-impact
 excerpt: 
 date: 2023-05-01
 authors: 'Maria S. Esipova, Atiyeh Ashari Ghomi, Yaqiao Luo, <b>Jesse C. Cresswell</b>'
-note: 'Spotlight, Top 25% of accepted papers'
+note: 'Spotlight. Top 25% of accepted papers'
 venueshort: 'ICLR 2023'
 venue: 'International Conference on Learning Representations 2023'
 paperurl: 'https://openreview.net/forum?id=qLOaeRvteqbx'
