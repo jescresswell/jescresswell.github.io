@@ -7,10 +7,10 @@ date: 2025-12-02
 authors: 'Bruce Kuwahara, Chen-Yuan Lin, Xiao Shi Huang, Kin Kwan Leung, Jullian Arta Yapeter, Ilya Stanevich, Felipe Perez, <b>Jesse C. Cresswell</b>'
 note:
 venueshort: 'NeurIPS 2025'
-venue: 'Advances in Neural Information Processing Systems'
-paperurl:
-pdf:
-codeurl:
+venue: 'Advances in Neural Information Processing Systems 2025'
+paperurl: 'https://arxiv.org/abs/2509.20461'
+pdf: 'https://arxiv.org/pdf/2509.20461'
+codeurl: https://github.com/layer6ai-labs/conformal-importance-summarization
 videourl:
 slidesurl:
 citation: 'Bruce Kuwahara, Chen-Yuan Lin, Xiao Shi Huang, Kin Kwan Leung, Jullian Arta Yapeter, Ilya Stanevich, Felipe Perez, Jesse C. Cresswell. Document Summarization with Conformal Importance Guarantees. In Advances in Neural Information Processing Systems, volume 38, 2025'

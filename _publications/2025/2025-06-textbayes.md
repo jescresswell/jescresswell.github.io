@@ -1,6 +1,5 @@
 ---
-title: "Textual Bayes: Quantifying Uncertainty in LLM-Based Systems
-"
+title: "Textual Bayes: Quantifying Uncertainty in LLM-Based Systems"
 collection: publications
 permalink: /publication/2025-06-textbayes
 excerpt: 
