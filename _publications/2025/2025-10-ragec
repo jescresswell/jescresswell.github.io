@@ -1,0 +1,18 @@
+---
+title: "Classifying and Addressing the Diversity of Errors in Retrieval-Augmented Generation Systems"
+collection: publications
+permalink: /publication/2025-10-ragec
+excerpt: 
+date: 2025-10-15
+authors: 'Kin Kwan Leung, Mouloud Belbahri, Yi Sui, Alex Labach, Xueying Zhang, Stephen Rose, <b>Jesse C. Cresswell</b>'
+note:
+venueshort: 'arXiv'
+venue: 'arXiv preprint'
+paperurl: 'https://arxiv.org/abs/2510.13975'
+pdf: 'https://arxiv.org/pdf/2510.13975'
+codeurl: 'https://github.com/layer6ai-labs/rag-error-classification'
+videourl:
+slidesurl:
+citation: 'Kin Kwan Leung, Mouloud Belbahri, Yi Sui, Alex Labach, Xueying Zhang, Stephen Rose, Jesse C. Cresswell. Classifying and Addressing the Diversity of Errors in Retrieval-Augmented Generation Systems. arXiv preprint: 2510.13975'
+---
+Retrieval-augmented generation (RAG) is a prevalent approach for building LLM-based question-answering systems that can take advantage of external knowledge databases. Due to the complexity of real-world RAG systems, there are many potential causes for erroneous outputs. Understanding the range of errors that can occur in practice is crucial for robust deployment. We present a new taxonomy of the error types that can occur in realistic RAG systems, examples of each, and practical advice for addressing them. Additionally, we curate a dataset of erroneous RAG responses annotated by error types. We then propose an auto-evaluation method aligned with our taxonomy that can be used in practice to track and address errors during development.
