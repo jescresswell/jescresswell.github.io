@@ -5,7 +5,7 @@ permalink: /publication/2025-07-conformal-rag
 excerpt: 
 date: 2025-07-13
 authors: 'Naihe Feng, Yi Sui, Shiyi Hou, <b>Jesse C. Cresswell</b>, Ga Wu'
-note: 'Short Paper'
+note:
 venueshort: 'SIGIR 2025'
 venue: 'SIGIR Conference on Research and Development in Information Retrieval 2025'
 paperurl: 'https://dl.acm.org/doi/10.1145/3726302.3730244'
