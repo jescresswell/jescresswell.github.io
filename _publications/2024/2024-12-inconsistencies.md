@@ -10,7 +10,7 @@ venueshort: 'NeurIPS 2024 Workshop FITML'
 venue: 'NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning'
 paperurl: 'https://openreview.net/forum?id=2p4ES8QPUi'
 pdf: 'https://arxiv.org/pdf/2411.08954'
-codeurl:
+codeurl: 'https://github.com/layer6ai-labs/direct-cms'
 videourl:
 slidesurl:
 citation: 'Noël Vouitsis, Rasa Hosseinzadeh, Brendan Leigh Ross, Valentin Villecroze, Satya Krishna Gorti, Jesse C. Cresswell, Gabriel Loaiza-Ganem. Inconsistencies In Consistency Models: Better ODE Solving Does Not Imply Better Samples. NeurIPS 2024 Workshop on Fine-Tuning in Modern Machine Learning'
