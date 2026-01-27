@@ -15,7 +15,7 @@ Designing trustworthy machine learning models is crucial in highly regulated ind
 I have deep expertise in generative modelling - especially through the lens of the manifold hypothesis - conformal prediction, self-supervised learning, differential privacy, and federated learning.
 
 ### News:
-- Jan. 2026 - I had a [paper](https://arxiv.org/abs/2510.13975) accepted to the main conference at EACL 2026
+- Jan. 2026 - I had a [paper](https://arxiv.org/abs/2510.13975) accepted to the main conference at EACL 2026, and [another](https://openreview.net/forum?id=VPmsAr1OTl) accepted at ICLR 2026
 - Dec. 2025 -  I was named a [Top Area Chair](https://neurips.cc/Conferences/2025/ProgramCommittee) at NeurIPS 2025 and will also be an Area Chair for ICML 2026
 - Sept. 2025 - I had three papers accepted to NeurIPS 2025, including a Spotlight!
 - Aug. 2025 - I'll be serving as an Area Chair for ICLR 2025

@@ -1,14 +1,14 @@
 ---
 title: "Textual Bayes: Quantifying Uncertainty in LLM-Based Systems"
 collection: publications
-permalink: /publication/2025-06-textbayes
+permalink: /publication/2026-04-textbayes
 excerpt: 
-date: 2025-06-11
+date: 2026-04-23
 authors: 'Brendan Leigh Ross, Noël Vouitsis, Atiyeh Ashari Ghomi, Rasa Hosseinzadeh, Ji Xin, Zhaoyan Liu, Yi Sui, Shiyi Hou, Kin Kwan Leung, Gabriel Loaiza-Ganem, <b>Jesse C. Cresswell</b>'
 note:
-venueshort: 'arXiv'
-venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2506.10060'
+venueshort: 'ICLR 2026'
+venue: 'International Conference on Learning Representations 2026'
+paperurl: 'https://openreview.net/forum?id=VPmsAr1OTl'
 pdf: 'https://arxiv.org/pdf/2506.10060'
 codeurl:
 videourl:
