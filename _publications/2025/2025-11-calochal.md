@@ -1,5 +1,5 @@
 ---
-title: "CaloChallenge 2022: a community challenge for fast calorimeter simulation
+title: "CaloChallenge 2022: A community challenge for fast calorimeter simulation"
 permalink: /publication/2025-11-calochal
 excerpt: 
 date: 2025-11-20
