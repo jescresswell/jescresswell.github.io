@@ -8,8 +8,8 @@ authors: 'Bruce Kuwahara, Chen-Yuan Lin, Xiao Shi Huang, Kin Kwan Leung, Jullian
 note:
 venueshort: 'NeurIPS 2025'
 venue: 'Advances in Neural Information Processing Systems 2025'
-paperurl: 'https://arxiv.org/abs/2509.20461'
-pdf: 'https://arxiv.org/pdf/2509.20461'
+paperurl: 'https://papers.nips.cc/paper_files/paper/2025/hash/60cefc59610f8f59ea10099f99a36726-Abstract-Conference.html'
+pdf: 'https://papers.nips.cc/paper_files/paper/2025/file/60cefc59610f8f59ea10099f99a36726-Paper-Conference.pdf'
 codeurl: 'https://github.com/layer6ai-labs/conformal-importance-summarization'
 videourl:
 slidesurl:

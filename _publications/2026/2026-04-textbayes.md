@@ -10,7 +10,7 @@ venueshort: 'ICLR 2026'
 venue: 'International Conference on Learning Representations 2026'
 paperurl: 'https://openreview.net/forum?id=VPmsAr1OTl'
 pdf: 'https://arxiv.org/pdf/2506.10060'
-codeurl:
+codeurl: 'https://github.com/layer6ai-labs/textual-bayes'
 videourl:
 slidesurl:
 citation: 'Brendan Leigh Ross, Noël Vouitsis, Atiyeh Ashari Ghomi, Rasa Hosseinzadeh, Ji Xin, Zhaoyan Liu, Yi Sui, Shiyi Hou, Kin Kwan Leung, Gabriel Loaiza-Ganem, Jesse C. Cresswell. Textual Bayes: Quantifying Prompt Uncertainty in LLM-Based Systems. ICLR 2026'
