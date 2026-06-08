@@ -15,7 +15,7 @@ Designing trustworthy machine learning models is crucial in highly regulated ind
 I have deep expertise in generative modelling - especially through the lens of the manifold hypothesis - conformal prediction, self-supervised learning, differential privacy, and federated learning.
 
 ### News:
-- Apr. 2026 - Two papers accepted at ICML 2026, one on RL for agents, and another on [fairness in conformal prediction](https://arxiv.org/abs/2602.16794).
+- Apr. 2026 - Two papers accepted at ICML 2026, one on [RL for agents](https://arxiv.org/abs/2606.05296), and another on [fairness in conformal prediction](https://arxiv.org/abs/2602.16794).
 - Mar. 2026 - I had an [opinion piece](http://thestar.com/business/opinion/to-err-is-artificial-intelligence--to-keep-an-eye-on-it-is-very-much-human/article_6abffdc4-f805-4ea5-b218-897f321cba26.html) published in the Toronto Star.
 - Feb. 2026 - I'll be an Area Chair at NeurIPS 2026.
 - Jan. 2026 - I had a [paper](https://arxiv.org/abs/2510.13975) accepted to the main conference at EACL 2026, and [another](https://openreview.net/forum?id=VPmsAr1OTl) accepted at ICLR 2026.
