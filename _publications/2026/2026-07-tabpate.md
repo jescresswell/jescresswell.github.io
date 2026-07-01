@@ -1,9 +1,9 @@
 ---
 title: "TabPATE: Differentially Private Tabular In-Context Learning Without Public Data"
 collection: publications
-permalink: /publication/2026-06-tabpate
+permalink: /publication/2026-07-tabpate
 excerpt: 
-date: 2026-06-30
+date: 2026-07-11
 authors: 'Dariush Wahdany, Matthew Jagielski, <b>Jesse C. Cresswell</b>, Adam Dziedzic, Franzsika Boenisch'
 note:
 venueshort: 'ICML 2026 Workshop FMSD'

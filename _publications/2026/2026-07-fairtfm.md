@@ -1,9 +1,9 @@
 ---
 title: "Training Fair Tabular Foundation Models"
 collection: publications
-permalink: /publication/2026-06-fairtfm
+permalink: /publication/2026-07-fairtfm
 excerpt: 
-date: 2026-06-30
+date: 2026-07-11
 authors: 'Patrik Kenfack, <b>Jesse C. Cresswell</b>, Anthony L. Caterini, Samira Ebrahimi Kahou, Ulrich Aïvodji'
 note: 'Spotlight Oral Award'
 venueshort: 'ICML 2026 Workshop FMSD'

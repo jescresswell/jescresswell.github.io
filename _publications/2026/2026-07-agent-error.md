@@ -3,7 +3,7 @@ title: "Conformal Agent Error Attribution"
 collection: publications
 permalink: /publication/2026-07-agent-error
 excerpt: 
-date: 2026-07-10
+date: 2026-07-11
 authors: 'Naihe Feng, Yi Sui, Shiyi Hou, Ga Wu, <b>Jesse C. Cresswell</b>'
 note:
 venueshort: 'ICML 2026 Workshop AgenticUQ'
