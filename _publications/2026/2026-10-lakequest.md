@@ -1,0 +1,18 @@
+---
+title: "LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes"
+collection: publications
+permalink: /publication/2026-10-lakequest
+excerpt: 
+date: 2026-10-06
+authors: 'Michael Solodko, Steven Gong, Guangwei Yu, Satya Krishna Gorti, <b>Jesse C. Cresswell</b>, Victor Zhong'
+note:
+venueshort: 'COLM 2026'
+venue: 'Conference on Language Modeling 2026'
+paperurl: 'https://arxiv.org/abs/2607.12310'
+pdf: 'https://arxiv.org/pdf/2607.12310'
+codeurl: 'https://github.com/michael0402/LakeQuest-starter-kit'
+videourl:
+slidesurl:
+citation: 'Michael Solodko, Steven Gong, Guangwei Yu, Satya Krishna Gorti, Jesse C. Cresswell, Victor Zhong. LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes. Conference on Language Modeling 2026'
+---
+While modern question answering (QA) systems excel on clean, schema-aligned corpora, real-world knowledge is rarely so neatly packaged. Answering questions over enterprise and scientific data lakes requires systems to navigate heterogeneous, weakly structured collections of tables, passages, and linked metadata. Current benchmarks abstract away this noisy discovery process, failing to evaluate end-to-end performance. To bridge this gap, we introduce LakeQuest, a human-validated benchmark of 9,846 QA pairs designed to evaluate the end-to-end retrieve-and-synthesize pipeline over realistic data lakes. LakeQuest spans three diverse domains (AI/ML metadata, retail banking, and multimodal biomedical drug information) and pairs every question with exact, modality-aware evidence pointers. By isolating source discovery from cross-modal synthesis, LakeQuest exposes critical failure modes in modern QA systems. Our baseline evaluations, including standard Retrieval-Augmented Generation (RAG) and agentic tool-use methods, reveal that high-quality retrieval does not guarantee correct reasoning. Systems consistently struggle with relation chaining in metadata graphs, policy grounding in bank ledgers, and joint tabular QA in biomedical contexts, highlighting the need for robust discovery and faithful cross-file composition mechanisms in future agentic QA systems.
