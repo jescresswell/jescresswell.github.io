@@ -8,9 +8,9 @@ authors: 'Patrik Kenfack, <b>Jesse C. Cresswell</b>, Anthony L. Caterini, Samira
 note: 'Spotlight Oral Award'
 venueshort: 'ICML 2026 Workshop FMSD'
 venue: 'ICML 2026 Workshop on Foundation Models for Structured Data'
-paperurl: 'https://openreview.net/forum?id=ajIvCEbadL'
-pdf: 'https://openreview.net/pdf?id=ajIvCEbadL'
-codeurl:
+paperurl: 'https://arxiv.org/abs/2608.14211'
+pdf: 'https://arxiv.org/pdf/2608.14211'
+codeurl: 'https://github.com/patrikken/FairTFM-inference'
 videourl:
 slidesurl:
 citation: 'Patrik Kenfack, Jesse C. Cresswell, Anthony L. Caterini, Samira Ebrahimi Kahou, Ulrich Aïvodji. Training Fair Tabular Foundation Models. ICML 2026 Workshop on Foundation Models for Structured Data'
