@@ -15,7 +15,7 @@ Designing trustworthy machine learning models is crucial in highly regulated ind
 I have deep expertise in generative modelling - especially through the lens of the manifold hypothesis - conformal prediction, self-supervised learning, differential privacy, and federated learning.
 
 ### News:
-- Aug. 2026 - I'll be an Area Chair for ICLR 2027.
+- Aug. 2026 - I had three papers accepted to EMNLP 2026, on topics of [LLM training](https://arxiv.org/abs/2606.16154), [VLM evaluation](https://arxiv.org/abs/2605.27311), and [conformal language tasks](https://jescresswell.github.io/publication/2026-08-conformal-relevance). I'll also be an Area Chair for ICLR 2027.
 - July 2026 - I had one [paper](https://arxiv.org/abs/2607.12310) accepted to COLM 2026.
 - June 2026 - I'll be presenting [four](https://openreview.net/forum?id=DzcWAYcR2n) [papers](https://openreview.net/forum?id=Q5iGt2Z0Ql) at the ICML 2026 FMSD Workshop including two [Spotlight](https://openreview.net/forum?id=u2uOPq1u6I) [Orals](https://openreview.net/forum?id=ajIvCEbadL), and another [paper](https://arxiv.org/abs/2605.06788) at the AgenticUQ workshop.
 - May 2026 - I'm reviewing for the ARR May cycle (EMNLP 2026).
