@@ -5,7 +5,7 @@ permalink: /publication/2026-08-chartographer
 excerpt: 
 date: 2026-08-24
 authors: 'Yifan Jiang, Dae Yon Hwang, <b>Jesse C. Cresswell</b>, Freda Shi'
-note: 'Main Conference'
+note:
 venueshort: 'EMNLP 2026'
 venue: 'Empirical Methods in Natural Language Processing 2026'
 paperurl: 'https://arxiv.org/abs/2605.27311'
