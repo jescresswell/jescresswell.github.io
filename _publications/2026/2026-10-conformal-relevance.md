@@ -1,9 +1,9 @@
 ---
 title: "Unifying Conformal Language Tasks with In-Context Ensembles"
 collection: publications
-permalink: /publication/2026-08-conformal-relevance
+permalink: /publication/2026-10-conformal-relevance
 excerpt: 
-date: 2026-08-24
+date: 2026-10-24
 authors: 'Xiao Shi Huang, Chen-Yuan Lin, Bruce Kuwahara, Kin Kwan Leung, <b>Jesse C. Cresswell</b>'
 note:
 venueshort: 'Findings of EMNLP 2026'

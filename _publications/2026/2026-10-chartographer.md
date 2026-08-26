@@ -1,9 +1,9 @@
 ---
 title: "Chartographer: Counterfactual Chart Generation for Evaluating Vision-Language Models"
 collection: publications
-permalink: /publication/2026-08-chartographer
+permalink: /publication/2026-10-chartographer
 excerpt: 
-date: 2026-08-24
+date: 2026-10-24
 authors: 'Yifan Jiang, Dae Yon Hwang, <b>Jesse C. Cresswell</b>, Freda Shi'
 note:
 venueshort: 'EMNLP 2026'
