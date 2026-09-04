@@ -8,9 +8,9 @@ authors: 'Xiao Shi Huang, Chen-Yuan Lin, Bruce Kuwahara, Kin Kwan Leung, <b>Jess
 note:
 venueshort: 'Findings of EMNLP 2026'
 venue: 'Findings of Empirical Methods in Natural Language Processing 2026'
-paperurl:
-pdf:
-codeurl:
+paperurl: 'https://arxiv.org/abs/2609.03005'
+pdf: 'https://arxiv.org/pdf/2609.03005'
+codeurl: 'https://github.com/layer6ai-labs/conformal-relevance'
 videourl:
 slidesurl:
 citation: 'Xiao Shi Huang, Chen-Yuan Lin, Bruce Kuwahara, Kin Kwan Leung, Jesse C. Cresswell. Unifying Conformal Language Tasks with In-Context Ensembles. Findings of EMNLP 2026'
