@@ -27,7 +27,7 @@ I have deep expertise in generative modelling - especially through the lens of t
 - Jan. 2026 - I had a [paper](https://arxiv.org/abs/2510.13975) accepted to the main conference at EACL 2026, and [another](https://openreview.net/forum?id=VPmsAr1OTl) accepted at ICLR 2026.
 - Dec. 2025 -  I was named a [Top Area Chair](https://neurips.cc/Conferences/2025/ProgramCommittee) at NeurIPS 2025 and will also be an Area Chair for ICML 2026
 - Sept. 2025 - I had three papers accepted to NeurIPS 2025, including a Spotlight!
-- Aug. 2025 - I'll be serving as an Area Chair for ICLR 2025.
+- Aug. 2025 - I'll be serving as an Area Chair for ICLR 2026.
 - Jun. 2025 - Our [paper](https://arxiv.org/abs/2506.07918) on causal foundation models was accepted as an Oral to the ICML 2025 [SIM Workshop](https://sites.google.com/view/sim-icml2025).
 - Apr. 2025 - I had a [short paper](https://jescresswell.github.io/files/Answer_Quality_Assessment_for_Retrieval_Augmented_Generation_via_Kernalized_Conformal_Factuality.pdf) accepted to SIGIR 2025, and am reviewing for ICCV 2025.
 - Mar. 2025 - I'll be serving as an Area Chair for NeurIPS 2025.

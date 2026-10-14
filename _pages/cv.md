@@ -53,7 +53,7 @@ Academic Awards
   
 Academic Service and leadership
 ======
-* 2024-2025 - Area Chair at NeurIPS, ICML, and ICLR
-* 2022-2024 - Reviewer at NeurIPS and ICML
+* 2024-2027 - Area Chair at NeurIPS, ICML, and ICLR
+* 2022-2027 - Reviewer at NeurIPS, ICML, ICCV, and ACL ARR.
 * 2018-2019 - Academic Don, University of Trinity College, U.Toronto
 * 2016-2019 - Graduate Education Council, School of Graduate Studies, U.Toronto
