@@ -1,0 +1,18 @@
+---
+title: "Tilted Mondrian: Triage and Mitigation of Fine-grained Disparities in Conformal Prediction"
+collection: publications
+permalink: /publication/2026-10-tilted-mondrian
+excerpt: 
+date: 2026-10-17
+authors: 'Ziang Gao, Pengqi Liu, Archer Yi Yang, Mouloud Belbahri, <b>Jesse C. Cresswell</b>, Masoud Asgharian'
+note:
+venueshort: 'arXiv'
+venue: 'arXiv preprint'
+paperurl: 'https://arxiv.org/abs/2610.24813'
+pdf: 'https://arxiv.org/pdf/2610.24813'
+codeurl: 'https://github.com/GreenPenguin001/tilted-mondrian'
+videourl:
+slidesurl:
+citation: 'Ziang Gao, Pengqi Liu, Archer Yi Yang, Mouloud Belbahri, Jesse C. Cresswell, Masoud Asgharian. Tilted Mondrian: Triage and Mitigation of Fine-grained Disparities in Conformal Prediction. arXiv preprint: 2610.24813'
+---
+Fairness in conformal prediction is often pursued through Mondrian calibration, which provides finite-sample coverage guarantees separately across groups. These guarantees, however, are coarse: substantial disparities can remain within finer strata. This coarse-to-fine fairness issue raises two questions: how severe can such disparities be, and how can they be mitigated? Aggregate disparities can depend on how groups are distributed across strata. For severity assessment, we introduce propensity standardization to examine the effect of population composition, and show how group composition can induce disagreement between aggregate and finer-stratum comparisons. For mitigation, we develop Tilted Mondrian to improve fairness compared to group-Mondrian at a finer level without additional model training. Tilted Mondrian retains groupwise coverage guarantees and mitigates coverage and prediction set size disparities within finer strata. Finally, we derive a method-agnostic bound that quantifies how much reduction in finer-stratum coverage disparity can be achieved.
