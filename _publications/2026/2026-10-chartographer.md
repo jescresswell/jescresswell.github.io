@@ -8,8 +8,8 @@ authors: 'Yifan Jiang, Dae Yon Hwang, <b>Jesse C. Cresswell</b>, Freda Shi'
 note:
 venueshort: 'EMNLP 2026'
 venue: 'Empirical Methods in Natural Language Processing 2026'
-paperurl: 'https://arxiv.org/abs/2605.27311'
-pdf: 'https://arxiv.org/pdf/2605.27311'
+paperurl: 'https://aclanthology.org/2026.emnlp-main.580/'
+pdf: 'https://aclanthology.org/2026.emnlp-main.580.pdf'
 codeurl: 'https://github.com/compling-wat/Chartographer'
 videourl:
 slidesurl:

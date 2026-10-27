@@ -8,8 +8,8 @@ authors: 'Xiao Shi Huang, Chen-Yuan Lin, Bruce Kuwahara, Kin Kwan Leung, <b>Jess
 note:
 venueshort: 'Findings of EMNLP 2026'
 venue: 'Findings of Empirical Methods in Natural Language Processing 2026'
-paperurl: 'https://arxiv.org/abs/2609.03005'
-pdf: 'https://arxiv.org/pdf/2609.03005'
+paperurl: 'https://aclanthology.org/2026.findings-emnlp.453/'
+pdf: 'https://aclanthology.org/2026.findings-emnlp.453.pdf'
 codeurl: 'https://github.com/layer6ai-labs/conformal-relevance'
 videourl:
 slidesurl:
